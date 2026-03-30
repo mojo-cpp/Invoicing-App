@@ -1,0 +1,26 @@
+# Compiled Executables 
+*.exe
+*.out 
+*.app
+
+# Object files and Libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# IDE Folders
+*.vscode/
+*.vs/
+out/
+build/
+bin/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Office files 
+*.docx
